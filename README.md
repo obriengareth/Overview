@@ -1,5 +1,5 @@
 # Overview
-The repositories here store code that was written to cover these fields. 
+The repositories here store code that was written to cover the topics below. 
 Some example results as animated gifs are used to illustrate the outputs.
 
 Data Science: Exploiting high performance computing and data science techniques to process and image large 
