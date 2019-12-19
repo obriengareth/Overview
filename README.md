@@ -28,7 +28,7 @@ visco-elastic and poroelastic wave equations in complex Earth models. This requi
 in seismic wave propagation and numerical methods along with programming on high performance 
 computing hardware.
 
-![Earthquakes](rupture.gif)
+![Earthquakes](rupture4.gif)
 
 Geophysical fluid dynamics: Investigating single and multi-phase flow in complex porous structures 
 including contaminant and reactive transport. Combining numerical models of subsurface fluid flow 
