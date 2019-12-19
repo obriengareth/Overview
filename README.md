@@ -18,16 +18,33 @@ complex geological regions, e.g. subsalt, whilst FWI has been used to develop hi
 velocity models which leads to better seismic images, can be fed into quantitative interpretation, 
 used to image through gas clouds and used in hazard prediction.
 
+![FWI](GY_fwi_model.gif)
+
+![LSM](LSM_prototype.gif)
+
+
 Computational Seismology: Developing and implementing numerical methods to solve the elastic, 
 visco-elastic and poroelastic wave equations in complex Earth models. This requires a strong background 
 in seismic wave propagation and numerical methods along with programming on high performance 
 computing hardware.
+
+![Earthquakes](rupture.gif)
 
 Geophysical fluid dynamics: Investigating single and multi-phase flow in complex porous structures 
 including contaminant and reactive transport. Combining numerical models of subsurface fluid flow 
 processes with static and dynamic rock deformation schemes enabling the simulation of fluid-rock 
 interactions in a wide variety of geophysical applications.
 
+![DamBreak](DamBreak.gif)
+
+![]bubbles](bubbles.gif)
+
+![Slug ascent](slug_model4.gif)
+
 Volcano Seismology: Researching the seismic source mechanism in volcanic environments and seismic 
 wave propagation in such media. Location of long-period volcano signals through novel high 
 performance computing algorithms.
+
+![ubinas_peru3d](ubinas_peru3d.gif)
+
+![yasur_wavefield3](yasur_wavefield3.gif)
