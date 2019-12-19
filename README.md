@@ -10,6 +10,8 @@ workflow. iii) Understanding the value of information arguments for assessing th
 workflows relative to the impact and cost across the E&P workflow. THe ulimtate objective is to use data to make 
 better business decisons through better de-risking or using quantifiable measures.
 
+![Predictive Analytics](equip_fail2c.gif)
+
 Geophysical Imaging: The most recent tools for imaging are Reverse Time Migration (RTM) and 
 Full Wavefield Inversion (FWI). RTM imaging has shown to be hugely beneficial in imaging in 
 complex geological regions, e.g. subsalt, whilst FWI has been used to develop high resolution 
