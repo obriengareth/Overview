@@ -11,6 +11,7 @@ workflows relative to the impact and cost across the E&P workflow. THe ulimtate 
 better business decisons through better de-risking or using quantifiable measures.
 
 ![Predictive Analytics](equip_fail2c.gif)
+![GAN](GAN_fig1.jpg)
 
 Geophysical Imaging: The most recent tools for imaging are Reverse Time Migration (RTM) and 
 Full Wavefield Inversion (FWI). RTM imaging has shown to be hugely beneficial in imaging in 
