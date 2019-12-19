@@ -38,7 +38,7 @@ interactions in a wide variety of geophysical applications.
 
 ![DamBreak](DamBreak.gif)
 
-![]bubbles](bubbles.gif)
+![bubbles](bubbles.gif)
 
 ![Slug ascent](slug_model4.gif)
 
