@@ -11,7 +11,10 @@ workflows relative to the impact and cost across the E&P workflow. THe ulimtate 
 better business decisons through better de-risking or using quantifiable measures.
 
 ![Predictive Analytics](equip_fail2c.gif)
+Predictive Analytic dashboard for sensor data streaming from an FPSO
+
 ![GAN](GAN_Fig1.jpg)
+Generative adversial neurl networks deployed to clean seismic data for analysis
 
 Geophysical Imaging: The most recent tools for imaging are Reverse Time Migration (RTM) and 
 Full Wavefield Inversion (FWI). RTM imaging has shown to be hugely beneficial in imaging in 
@@ -20,9 +23,10 @@ velocity models which leads to better seismic images, can be fed into quantitati
 used to image through gas clouds and used in hazard prediction.
 
 ![FWI](GY_fwi_model.gif)
+Full wavefield inversion for model building and subsurface imaging
 
 ![LSM](LSM_prototype.gif)
-
+Iterative conjugate gradient inversion to optimise data
 
 Computational Seismology: Developing and implementing numerical methods to solve the elastic, 
 visco-elastic and poroelastic wave equations in complex Earth models. This requires a strong background 
@@ -30,6 +34,7 @@ in seismic wave propagation and numerical methods along with programming on high
 computing hardware.
 
 ![Earthquakes](rupture4.gif)
+An vertical fault rupturing releasing energy which propagates as seismic waves
 
 Geophysical fluid dynamics: Investigating single and multi-phase flow in complex porous structures 
 including contaminant and reactive transport. Combining numerical models of subsurface fluid flow 
@@ -37,15 +42,20 @@ processes with static and dynamic rock deformation schemes enabling the simulati
 interactions in a wide variety of geophysical applications.
 
 ![DamBreak](DamBreak.gif)
+Dam break and flow from one side to the other within a sealed box
 
 ![bubbles](bubbles.gif)
+Gas bubbles flowing
 
 ![Slug ascent](slug_model4.gif)
+Gas bubbles flowing
 
 Volcano Seismology: Researching the seismic source mechanism in volcanic environments and seismic 
 wave propagation in such media. Location of long-period volcano signals through novel high 
 performance computing algorithms.
 
 ![ubinas_peru3d](ubinas_peru3d.gif)
+Ubinas volcano, Peru
 
 ![yasur_wavefield3](yasur_wavefield3.gif)
+Yasur volcano
