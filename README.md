@@ -1,5 +1,5 @@
 # Overview
-The repositories here store code that was written to cover the topics below. 
+The repositories store code that was written to cover the topics below. 
 Some example results as animated gifs are used to illustrate the outputs.
 
 Data Science: Exploiting high performance computing and data science techniques to process and image large 
@@ -39,7 +39,7 @@ computing hardware.
 
 ![Earthquakes](rupture4.gif)
 
-An vertical fault rupturing releasing energy which propagates as seismic waves
+A vertical fault rupturing releasing energy which propagates as seismic waves
 
 Geophysical fluid dynamics: Investigating single and multi-phase flow in complex porous structures 
 including contaminant and reactive transport. Combining numerical models of subsurface fluid flow 
