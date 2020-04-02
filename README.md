@@ -18,6 +18,12 @@ Predictive Analytic dashboard for sensor data streaming from an FPSO
 
 Generative adversial neurl networks deployed to clean seismic data for analysis
 
+
+![Predictive Analytics](Ireland_CORVID_M2.gif)
+
+SIR Model of a generic pandemic across the Irish Population
+
+
 Geophysical Imaging: The most recent tools for imaging are Reverse Time Migration (RTM) and 
 Full Wavefield Inversion (FWI). RTM imaging has shown to be hugely beneficial in imaging in 
 complex geological regions, e.g. subsalt, whilst FWI has been used to develop high resolution 
