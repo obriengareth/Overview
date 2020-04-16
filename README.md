@@ -16,7 +16,7 @@ Predictive Analytic dashboard for sensor data streaming from an FPSO
 
 ![GAN](GAN_Fig1.jpg)
 
-Generative adversial neurl networks deployed to clean seismic data for analysis
+Generative adversial neural networks deployed to clean seismic data for analysis
 
 
 ![Predictive Analytics](Ireland_CORVID_M2.gif)
