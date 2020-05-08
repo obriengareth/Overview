@@ -30,9 +30,6 @@ complex geological regions, e.g. subsalt, whilst FWI has been used to develop hi
 velocity models which leads to better seismic images, can be fed into quantitative interpretation, 
 used to image through gas clouds and used in hazard prediction.
 
-![FWI](GY_fwi_model.gif)
-
-Full wavefield inversion for model building and subsurface imaging
 
 ![LSM](LSM_prototype.gif)
 
