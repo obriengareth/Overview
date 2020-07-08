@@ -61,6 +61,11 @@ Gas bubbles flowing
 
 Gas bubbles flowing
 
+![Hydrology](fault_zone.gif)
+
+Hydrological modelling of a tracer through a fault zone using ADE solution
+
+
 Volcano Seismology: Researching the seismic source mechanism in volcanic environments and seismic 
 wave propagation in such media. Location of long-period volcano signals through novel high 
 performance computing algorithms.
