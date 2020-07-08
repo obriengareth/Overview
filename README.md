@@ -21,7 +21,8 @@ Generative adversial neural networks deployed to clean seismic data for analysis
 
 ![Predictive Analytics](Ireland_CORVID_M2.gif)
 
-SIR Model of a generic pandemic across the Irish Population
+SIR Model of a generic pandemic across the Irish Population - worse case scenario with 
+large Ro and no social distancing measures.
 
 
 Geophysical Imaging: The most recent tools for imaging are Reverse Time Migration (RTM) and 
