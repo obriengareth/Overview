@@ -81,3 +81,7 @@ Ubinas volcano, Peru
 ![yasur_wavefield3](yasur_wavefield3.gif)
 
 Yasur volcano
+
+![NL-ELM](non_linear_elm14.jpg)
+
+Non-linear elastic deformation in low velocity shallow volcanic layers
