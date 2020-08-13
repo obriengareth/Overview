@@ -54,6 +54,9 @@ interactions in a wide variety of geophysical applications.
 
 Dam break and flow from one side to the other within a sealed box
 
+![Turbulant flow around a cube](turbulance_clbm.jpeg)
+Re=20,000 flow around a cube with turbulance using a cumulatant LBM method (Geier et al. 2015)
+
 ![bubbles](bubbles.gif)
 
 Gas bubbles flowing
