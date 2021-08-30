@@ -18,6 +18,9 @@ Predictive Analytic dashboard for sensor data streaming from an FPSO
 
 Generative adversial neural networks deployed to clean seismic data for analysis
 
+![FNO](FNO.jpg)
+
+Neural operator simulating elastic seismic wave propagation in complex volcanic envirnoments. 
 
 ![Predictive Analytics](Ireland_CORVID_M2.gif)
 
