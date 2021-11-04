@@ -7,7 +7,7 @@ datasets to image the subsurface within the business constraints for maximising 
 Examples include, i) using generative adversarial networks to translate complex geophysical images 
 into human interpretable products, ii) using genetic algorithms as optimisation tools within the  
 workflow. iii) Understanding the value of information arguments for assessing the business delivery of 
-workflows relative to the impact and cost across the E&P workflow. THe ulimtate objective is to use data to make 
+workflows relative to the impact and cost across the E&P workflow. The ulimate objective is to use data to make 
 better business decisons through better de-risking or using quantifiable measures.
 
 ![Predictive Analytics](equip_fail2c.gif)
