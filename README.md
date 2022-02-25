@@ -20,13 +20,19 @@ Generative adversial neural networks deployed to clean seismic data for analysis
 
 ![FNO](fno_gsobrien6.jpeg)
 
-Neural operator simulating elastic seismic wave propagation in complex volcanic envirnoments. The inversion results can be interpreted as the network learning the inverse Green’s function for the elastic wave operator. The network can also be trained to generate the Green’s function for a particular model by using the models as the input and the wavefield (or seismic traces) as the output. 
+Neural operator simulating elastic seismic wave propagation in complex volcanic envirnoments. The 
+inversion results can be interpreted as the network learning the inverse Green’s function for the 
+elastic wave operator. The network can also be trained to generate the Green’s function for a 
+particular model by using the models as the input and the wavefield (or seismic traces) as the output. 
 
-The top panel shows the results from a numerical simulation directly solving the equations with a sample from the unseen layered model data. The left-hand side is for a snapshot after 1 second and the right-hand panel is after 3 seconds. The middle panel shows the results from the FNO network using the layered dataset to train. 
+The top panel shows the results from a numerical simulation directly solving the equations with 
+a sample from the unseen layered model data. The left-hand side is for a snapshot after 1 
+second and the right-hand panel is after 3 seconds. The middle panel shows the results 
+from the FNO network using the layered dataset to train. 
 
-The bottom panels show the difference. The overall match is very good though the network can struggle to capture the smaller amplitude scattering. This failure to accurately predict the scattering is greater when using very heterogeneous training models.  
-![image](https://user-images.githubusercontent.com/59053523/155749228-08e5536c-ff4d-4077-95ef-0830c05cf3f7.png)
-
+The bottom panels show the difference. The overall match is very good though the network can struggle 
+to capture the smaller amplitude scattering. This failure to accurately predict the scattering is 
+greater when using very heterogeneous training models.  
 
 ![Predictive Analytics](Ireland_CORVID_M2.gif)
 
