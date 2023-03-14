@@ -2,6 +2,8 @@
 The repositories store code that was written to cover the topics below. 
 Some example results as animated gifs are used to illustrate the outputs.
 
+![Wind Farm](Ireland turbine.png)
+
 Data Science: Exploiting high performance computing and data science techniques to process and image large 
 datasets to image the subsurface within the business constraints for maximising commercial value. 
 Examples include, i) using generative adversarial networks to translate complex geophysical images 
