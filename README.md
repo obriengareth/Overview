@@ -3,7 +3,7 @@ The repositories store code that was written to cover the topics below.
 Some example results as animated gifs are used to illustrate the outputs.
 
 ![Wind Farm](ireland_turbine.png)
-One xample of streamlines flowing over wind turbines in the Dublin Mountains. Other simulations and ML examples are given below. 
+One example of streamlines flowing over wind turbines in the Dublin Mountains. Other simulations and ML examples are given below. 
 
 Data Science: Exploiting high performance computing and data science techniques to process and image large 
 datasets to image the subsurface within the business constraints for maximising commercial value. 
